@@ -1,1 +1,37 @@
-# Bookmark
+# Bookmark Website
+
+A simple and responsive bookmark website built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. The project allows users to save and manage bookmarks for their favorite websites.
+
+---
+
+## Features
+
+- **Responsive Design**: Ensures seamless usability across devices.
+- **Add Bookmarks**: Save websites with a title and URL.
+- **View Bookmarks**: Display a list of saved bookmarks.
+- **Delete Bookmarks**: Remove unwanted entries with a single click.
+- **Bootstrap Styling**: Clean and professional UI.
+
+---
+
+## Demo
+
+![Screenshot of Bookmark Website](screenshot.png)  
+(Replace this with an actual screenshot of your website)
+
+---
+
+## Technologies Used
+
+- **HTML**: Structure of the website.
+- **CSS**: Custom styling for a polished look.
+- **Bootstrap**: Responsive grid system and pre-designed components.
+- **JavaScript**: Logic for bookmark functionality.
+
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/bookmark-website.git
