@@ -4,6 +4,11 @@ A simple and responsive bookmark website built using **HTML**, **CSS**, **JavaSc
 
 ---
 
+## Demo
+- **Site**: https://ahmed-abo-rafat.github.io/bookmark/
+
+---
+
 ## Features
 
 - **Responsive Design**: Ensures seamless usability across devices.
@@ -12,10 +17,6 @@ A simple and responsive bookmark website built using **HTML**, **CSS**, **JavaSc
 - **Delete Bookmarks**: Remove unwanted entries with a single click.
 - **Bootstrap Styling**: Clean and professional UI.
 
----
-
-## Demo
-- **Site**: https://ahmed-abo-rafat.github.io/bookmark/
 
 
 ---
