@@ -15,9 +15,8 @@ A simple and responsive bookmark website built using **HTML**, **CSS**, **JavaSc
 ---
 
 ## Demo
+- **Site**: Clean and professional UI.
 
-![Screenshot of Bookmark Website](screenshot.png)  
-(Replace this with an actual screenshot of your website)
 
 ---
 
@@ -34,4 +33,4 @@ A simple and responsive bookmark website built using **HTML**, **CSS**, **JavaSc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bookmark-website.git
+   git clone https://github.com/Ahmed-Abo-Rafat/bookmark.git
